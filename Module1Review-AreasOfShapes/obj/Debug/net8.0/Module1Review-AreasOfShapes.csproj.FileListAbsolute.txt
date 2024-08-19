@@ -1,0 +1,14 @@
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\bin\Debug\net8.0\Module1Review-AreasOfShapes.exe
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\bin\Debug\net8.0\Module1Review-AreasOfShapes.deps.json
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\bin\Debug\net8.0\Module1Review-AreasOfShapes.runtimeconfig.json
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\bin\Debug\net8.0\Module1Review-AreasOfShapes.dll
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\bin\Debug\net8.0\Module1Review-AreasOfShapes.pdb
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\obj\Debug\net8.0\Module1Review-AreasOfShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\obj\Debug\net8.0\Module1Review-AreasOfShapes.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\obj\Debug\net8.0\Module1Review-AreasOfShapes.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\obj\Debug\net8.0\Module1Review-AreasOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\obj\Debug\net8.0\Module1Review-AreasOfShapes.dll
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\obj\Debug\net8.0\refint\Module1Review-AreasOfShapes.dll
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\obj\Debug\net8.0\Module1Review-AreasOfShapes.pdb
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\obj\Debug\net8.0\Module1Review-AreasOfShapes.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Desktop\Repos\RiderProjects\Module1Review-AreasOfShapes\Module1Review-AreasOfShapes\obj\Debug\net8.0\ref\Module1Review-AreasOfShapes.dll
